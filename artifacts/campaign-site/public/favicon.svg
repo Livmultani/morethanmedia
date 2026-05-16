@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" fill="none">
+  <rect width="180" height="180" rx="40" fill="#FBE8EF"/>
+  <!-- scaled medallion centred at 90,90 (scale ~0.82 of 200-viewBox version) -->
+  <g transform="translate(90 90) scale(0.82) translate(-100 -108)">
+    <circle cx="172.0" cy="108.0" r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="170.4" cy="126.3" r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="165.8" cy="143.9" r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="158.3" cy="159.8" r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="148.2" cy="173.4" r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="136.0" cy="184.2" r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="122.3" cy="191.8" r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="107.5" cy="195.5" r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="92.5"  cy="195.5" r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="77.7"  cy="191.8" r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="64.0"  cy="184.2" r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="51.8"  cy="173.4" r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="41.7"  cy="159.8" r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="34.2"  cy="143.9" r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="29.6"  cy="126.3" r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="28.0"  cy="108.0" r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="29.6"  cy="89.7"  r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="34.2"  cy="72.1"  r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="41.7"  cy="56.2"  r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="51.8"  cy="42.6"  r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="64.0"  cy="31.8"  r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="77.7"  cy="24.2"  r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="92.5"  cy="20.5"  r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="107.5" cy="20.5"  r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="122.3" cy="24.2"  r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="136.0" cy="31.8"  r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="148.2" cy="42.6"  r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="158.3" cy="56.2"  r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="165.8" cy="72.1"  r="6" fill="#DC889D" opacity="0.88"/>
+    <circle cx="170.4" cy="89.7"  r="6" fill="#DC889D" opacity="0.88"/>
+    <ellipse cx="100" cy="108" rx="67" ry="83" fill="#FBE8EF"/>
+    <ellipse cx="100" cy="108" rx="62" ry="77" stroke="#DC889D" stroke-width="1.5"/>
+    <ellipse cx="100" cy="108" rx="53" ry="67" stroke="#DC889D" stroke-width="1" stroke-dasharray="2.5 3.5"/>
+    <path d="M100,87 C97,80 90,77 85,80 C80,83 79,89 80,93 C81,97 85,101 92,102 L100,100 L108,102 C115,101 119,97 120,93 C121,89 120,83 115,80 C110,77 103,80 100,87 Z" fill="#DC889D"/>
+    <path d="M84,106 C80,116 85,126 100,128 C115,126 120,116 116,106 C110,102 90,102 84,106 Z" fill="#DC889D"/>
+  </g>
+</svg>
